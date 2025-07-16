@@ -1,0 +1,16 @@
+Component,Molecular weight,Critical Pressure Psia,Critiacal temp,typical composition
+CH4   Methane,16.04,668,343,0.847
+C2 H6 Ethane,30.07,708,550,0.0586
+C3H8 Propane,44.1,616,666,0.022
+i-C4H10 isobutane,58.12,529,735,0.0035
+n-C4H10 Butane,58.12,551,765,0.0058
+i-C5H12 isopentane,72.15,490,829,0.0027
+n-C5H12  Pentane,72.15,489,845,0.0025
+n-C6H14 hexane,86.18,437,913,0.0028
+n-C7H16 heptane,100.2,397,972,0.0028
+n-C8H18 octane,114.23,361,1024,0.0015
+C9H20 Nonane,128.26,332,1070,0.0018
+C10H22  Decane,142.29,304,1112,0.0015
+Co2 ,44.01,1071,548,0.013
+H2S,34.08,1306,672,0
+Nitrogen,28.01,493,227,0.0345
